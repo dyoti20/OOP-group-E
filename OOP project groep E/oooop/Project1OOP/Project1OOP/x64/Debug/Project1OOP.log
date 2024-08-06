@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\ashle\OneDrive\Documents\oooop\Project1OOP\Project1OOP\Source.cpp(88,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\ashle\OneDrive\Documents\oooop\Project1OOP\Project1OOP\Source.cpp(88,42): warning C4244:         with
+C:\Users\ashle\OneDrive\Documents\oooop\Project1OOP\Project1OOP\Source.cpp(88,42): warning C4244:         [
+C:\Users\ashle\OneDrive\Documents\oooop\Project1OOP\Project1OOP\Source.cpp(88,42): warning C4244:             T=float
+C:\Users\ashle\OneDrive\Documents\oooop\Project1OOP\Project1OOP\Source.cpp(88,42): warning C4244:         ]
+  Project1OOP.vcxproj -> C:\Users\ashle\OneDrive\Documents\oooop\Project1OOP\x64\Debug\Project1OOP.exe
